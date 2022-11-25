@@ -3,7 +3,7 @@
 - 🕒 I have been coding for the past 1 year. I'm having fun
 - 🌱 I’m currently learning oracle db, microsoft azure devops at Fintech-group limited
 - 📰 Frequently following up with the Tech scenes through news articles e.g daily medium digest
-- 📫 How to reach me email(ianowino3@gmail.com)
+- 📫 How to reach me email[ianowino3@gmail.com]
 - 📁 Check on portfolio [here](https://ian-otieno.netlify.app/)
 
 ### Current Stack & Tools
