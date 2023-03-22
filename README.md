@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ian-otieno
 - 👀 I’m interested in full stack web development
-- 🕒 I have been coding for the past 1 year. I'm having fun
+- 🕒 I have been coding for the past 2 year. I'm having fun
 - 🌱 I’m currently learning oracle db, microsoft azure devops at Fintech-group limited
 - 📰 Frequently following up with the Tech scenes through news articles e.g daily medium digest
 - 📫 How to reach me email ianowino3@gmail.com
