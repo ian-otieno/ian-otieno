@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ian-otieno
-- 👀 I’m interested in full stack web development
-- 🕒 I have been coding for the past 2 years. I'm having fun
-- 🌱 I’m currently learning oracle db, microsoft azure devops at Fintech-group limited
+- 👀 I’m full stack web development
+- 🕒 I have been coding for the past 3 years. I'm having fun
+- 🌱 I’m currently Software Developer at Fintech Industry
 - 📰 Frequently following up with the Tech scenes through news articles e.g daily medium digest
 - 📫 How to reach me email ianowino3@gmail.com
 - 📁 Check on portfolio [here](https://ian-otieno.netlify.app/)
@@ -25,7 +25,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+ ![Microsoft SQL](https://img.shields.io/badge/Microsoft%20SQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+ ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### Here are some of my coding practice projects I would like you to view
 #### 1. Full Stack Apps
