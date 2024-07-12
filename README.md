@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ian-otieno
-- 👀 I’m full stack web development
+- 👀 I’m full stack web developer
 - 🕒 I have been coding for the past 3 years. I'm having fun
 - 🌱 I’m currently Software Developer at Fintech Industry
 - 📰 Frequently following up with the Tech scenes through news articles e.g daily medium digest
