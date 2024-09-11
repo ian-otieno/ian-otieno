@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experienc
 Here’s a list of the technologies and tools I work with:
 
 ### **Frontend**  
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
     <p>HTML5</p>
@@ -39,7 +39,7 @@ Here’s a list of the technologies and tools I work with:
 </div>
 
 ### **Backend**  
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
     <p>Python</p>
@@ -67,7 +67,7 @@ Here’s a list of the technologies and tools I work with:
 </div>
 
 ### **Databases**  
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="60" height="60"/>
     <p>Postgres</p>
@@ -79,7 +79,7 @@ Here’s a list of the technologies and tools I work with:
 </div>
 
 ### **DevOps & Tools**  
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60"/>
     <p>Heroku</p>
@@ -111,7 +111,7 @@ Here’s a list of the technologies and tools I work with:
 </div>
 
 ### **Microsoft Technologies**  
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="60" height="60"/>
     <p>VB.NET</p>
@@ -127,10 +127,6 @@ Here’s a list of the technologies and tools I work with:
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60"/>
     <p>Microsoft SQL</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="ASP.NET Core Web APIs" width="60" height="60"/>
-    <p>ASP.NET Core Web APIs</p>
   </div>
   <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linq/linq-original.svg" alt="LINQ" width="60" height="60"/>
