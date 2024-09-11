@@ -11,77 +11,129 @@ I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experienc
 Here’s a list of the technologies and tools I work with:
 
 ### **Frontend**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 5px"/>
-  <br/>HTML5
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 5px"/>
-  <br/>CSS3
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 5px"/>
-  <br/>JavaScript
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" style="margin: 5px"/>
-  <br/>Bootstrap
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60" style="margin: 5px"/>
-  <br/>Angular
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 5px"/>
-  <br/>React
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; margin-bottom: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+    <p>HTML5</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+    <p>CSS3</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
+    <p>Bootstrap</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
+    <p>Angular</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+    <p>React</p>
+  </div>
+</div>
 
 ### **Backend**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 5px"/>
-  <br/>Python
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" style="margin: 5px"/>
-  <br/>Flask
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="60" height="60" style="margin: 5px"/>
-  <br/>Django
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django REST" width="60" height="60" style="margin: 5px"/>
-  <br/>Django REST
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="ASP.NET Core" width="60" height="60" style="margin: 5px"/>
-  <br/>ASP.NET Core
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; margin-bottom: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    <p>Python</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
+    <p>Flask</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
+    <p>Django</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django REST" width="60" height="60"/>
+    <p>Django REST</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="ASP.NET Core" width="60" height="60"/>
+    <p>ASP.NET Core</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="ASP.NET Core Web APIs" width="60" height="60"/>
+    <p>ASP.NET Core Web APIs</p>
+  </div>
+</div>
 
 ### **Databases**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="60" height="60" style="margin: 5px"/>
-  <br/>Postgres
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60" style="margin: 5px"/>
-  <br/>Microsoft SQL
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; margin-bottom: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="60" height="60"/>
+    <p>Postgres</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60"/>
+    <p>Microsoft SQL</p>
+  </div>
+</div>
 
 ### **DevOps & Tools**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60" style="margin: 5px"/>
-  <br/>Heroku
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 5px"/>
-  <br/>Git
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 5px"/>
-  <br/>GitHub
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="60" height="60" style="margin: 5px"/>
-  <br/>Azure DevOps
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" style="margin: 5px"/>
-  <br/>Postman
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 5px"/>
-  <br/>VS Code
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60" style="margin: 5px"/>
-  <br/>Visual Studio
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; margin-bottom: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60"/>
+    <p>Heroku</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+    <p>Git</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+    <p>GitHub</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="60" height="60"/>
+    <p>Azure DevOps</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
+    <p>Postman</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+    <p>VS Code</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60"/>
+    <p>Visual Studio</p>
+  </div>
+</div>
 
 ### **Microsoft Technologies**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="60" height="60" style="margin: 5px"/>
-  <br/>VB.NET
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" style="margin: 5px"/>
-  <br/>C#
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="60" height="60" style="margin: 5px"/>
-  <br/>ASP.NET Core
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60" style="margin: 5px"/>
-  <br/>Microsoft SQL
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; margin-bottom: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="60" height="60"/>
+    <p>VB.NET</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+    <p>C#</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="60" height="60"/>
+    <p>ASP.NET Core</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60"/>
+    <p>Microsoft SQL</p>
+  </div>
+</div>
 
 ---
 
 ## 🚀 Featured Projects  
-Check out some of the projects I’ve built using the above tech stack:
+Here are some of the projects I've worked on across various technologies.
 
 ### **Full Stack Apps**  
 - [Safiri - Backend/Frontend](https://github.com/ian-otieno/Backend-Safiri)  
