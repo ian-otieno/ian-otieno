@@ -8,47 +8,47 @@ I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experienc
 ---
 
 ## ⚡ Tech Stack & Tools  
-Here’s a list of the technologies and tools I work with, illustrated with animated icons:
+Here’s a list of the technologies and tools I work with, illustrated with images:
 
 ### **Frontend**  
 <p align="left">
-  <img src="https://lottiefiles.com/animated-icons/html5" alt="HTML5" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/css3" alt="CSS3" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/javascript" alt="JavaScript" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/bootstrap" alt="Bootstrap" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/angular" alt="Angular" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/react" alt="React" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </p>
 
 ### **Backend**  
 <p align="left">
-  <img src="https://lottiefiles.com/animated-icons/python" alt="Python" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/flask" alt="Flask" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/django" alt="Django" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/django-rest" alt="Django REST" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django REST" width="50" height="50"/>
 </p>
 
 ### **Databases**  
 <p align="left">
-  <img src="https://lottiefiles.com/animated-icons/postgresql" alt="Postgres" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50"/>
 </p>
 
 ### **DevOps & Tools**  
 <p align="left">
-  <img src="https://lottiefiles.com/animated-icons/heroku" alt="Heroku" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/git" alt="Git" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/github" alt="GitHub" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/azure-devops" alt="Azure DevOps" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/postman" alt="Postman" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/vscode" alt="VS Code" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 ### **Microsoft Technologies**  
 <p align="left">
-  <img src="https://lottiefiles.com/animated-icons/vb.net" alt="VB.NET" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/csharp" alt="C#" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/asp.net-core" alt="ASP.NET Core" width="50px" height="50px"/>
-  <img src="https://lottiefiles.com/animated-icons/microsoft-sql" alt="Microsoft SQL" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="50" height="50"/>
 </p>
 
 ---
