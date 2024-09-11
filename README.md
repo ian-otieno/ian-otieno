@@ -11,140 +11,43 @@ I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experienc
 Here’s a list of the technologies and tools I work with:
 
 ### **Frontend**  
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-    <p>HTML5</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-    <p>CSS3</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
-    <p>Bootstrap</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
-    <p>Angular</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-    <p>React</p>
-  </div>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 
 ### **Backend**  
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-    <p>Python</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
-    <p>Flask</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
-    <p>Django</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django REST" width="60" height="60"/>
-    <p>Django REST</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="ASP.NET Core" width="60" height="60"/>
-    <p>ASP.NET Core</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="ASP.NET Core Web APIs" width="60" height="60"/>
-    <p>ASP.NET Core Web APIs</p>
-  </div>
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Django REST](https://img.shields.io/badge/-Django_REST-092E20?logo=django&logoColor=white&style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![ASP.NET Core Web APIs](https://img.shields.io/badge/-ASP.NET_Core_Web_APIs-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
 ### **Databases**  
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="60" height="60"/>
-    <p>Postgres</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60"/>
-    <p>Microsoft SQL</p>
-  </div>
-</div>
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Microsoft SQL](https://img.shields.io/badge/-Microsoft_SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
 
 ### **DevOps & Tools**  
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60"/>
-    <p>Heroku</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-    <p>Git</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-    <p>GitHub</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="60" height="60"/>
-    <p>Azure DevOps</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
-    <p>Postman</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-    <p>VS Code</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60"/>
-    <p>Visual Studio</p>
-  </div>
-</div>
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-008AD7?logo=azuredevops&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)
 
 ### **Microsoft Technologies**  
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="60" height="60"/>
-    <p>VB.NET</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-    <p>C#</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="60" height="60"/>
-    <p>ASP.NET Core</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="60" height="60"/>
-    <p>Microsoft SQL</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linq/linq-original.svg" alt="LINQ" width="60" height="60"/>
-    <p>LINQ</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/iis/iis-original.svg" alt="IIS" width="60" height="60"/>
-    <p>IIS</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="60" height="60"/>
-    <p>Azure DevOps</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" alt="Microservices" width="60" height="60"/>
-    <p>Microservices</p>
-  </div>
-</div>
+![VB.NET](https://img.shields.io/badge/-VB.NET-5C2D91?logo=dotnet&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![Microsoft SQL](https://img.shields.io/badge/-Microsoft_SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![LINQ](https://img.shields.io/badge/-LINQ-00A300?logo=dotnet&logoColor=white&style=flat-square)
+![IIS](https://img.shields.io/badge/-IIS-0060A9?logo=iis&logoColor=white&style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-008AD7?logo=azuredevops&logoColor=white&style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-FF4F00?logo=microservices&logoColor=white&style=flat-square)
 
 ---
 
