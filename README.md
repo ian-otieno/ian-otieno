@@ -2,7 +2,7 @@
 I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experience. I enjoy building seamless digital solutions using cutting-edge technologies and creative approaches. Currently, I'm working as a **Software Developer** in the **Fintech Industry** and keeping up with the latest trends by following tech news and articles like the daily Medium digest.
 
 ## 🌍 Let's Connect  
-📫 **Email**: [ianowino3@gmail.com](mailto:ianowino3@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianowino3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ianoportflolio.netlify.app/)
 
 
