@@ -8,8 +8,11 @@ When I’m not coding, I’m catching up on the latest **tech trends** and **Med
 
 ## 🌐 Connect with Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianowino3@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ianoportflolio.netlify.app/)
+
 [![Wakatime](https://wakatime.com/badge/user/d48184f9-a9ca-434a-8e5e-4dbf011a1a6f.svg)](https://wakatime.com/@Iano)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ian-otieno&theme=dark)](https://github.com/ian-otieno)
 
 ---
