@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm **Ian Otieno**
 
 💻 **Full Stack Web Developer** | ⚙️ **Software Developer @ Fintech Industry**  
-I craft seamless digital solutions with modern technologies and creative thinking. With **3+ years of experience**, I enjoy transforming complex ideas into elegant, functional web applications.  
-When I’m not coding, I’m catching up on the latest **tech trends** and **Medium dev articles**.
+I craft seamless digital solutions using modern technologies and creative thinking. With **3+ years of experience**, I transform complex ideas into elegant, scalable web applications.  
+Outside of code, I stay inspired by exploring **tech innovations**, **Fintech trends**, and **Medium dev articles**.
 
 ---
 
@@ -18,6 +18,7 @@ When I’m not coding, I’m catching up on the latest **tech trends** and **Med
 ---
 
 ## ⚡ Tech Stack
+
 ### 🖥️ Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -28,9 +29,6 @@ When I’m not coding, I’m catching up on the latest **tech trends** and **Med
 
 ### ⚙️ Backend  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?logo=django&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases  
@@ -60,16 +58,21 @@ When I’m not coding, I’m catching up on the latest **tech trends** and **Med
 ## 🚀 Featured Projects  
 
 ### 🌍 Full Stack  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)  
 - [Safiri (Frontend & Backend)](https://github.com/ian-otieno/Backend-Safiri)  
 - [Keep-fit](https://github.com/ian-otieno/Keep-fit)
 
-### 🐍 Django  
+###  Django Projects  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?logo=django&logoColor=white)  
 - [Neighbourhood](https://github.com/ian-otieno/Django-Neighbourhood)  
 - [Awards](https://github.com/ian-otieno/Django-Awards)  
 - [Instagram Clone](https://github.com/ian-otieno/Django-Instagram)  
 - [Gallery](https://github.com/ian-otieno/Django-Gallery)
 
-### 🔥 Flask  
+###  Flask Projects  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
 - [News App](https://github.com/ian-otieno/News-App)  
 - [Pitches App](https://github.com/ian-otieno/pitches-app)  
 - [Blog Post](https://github.com/ian-otieno/Blog-Post)
