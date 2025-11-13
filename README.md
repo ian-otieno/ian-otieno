@@ -5,6 +5,7 @@ I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experienc
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianowino3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ianoportflolio.netlify.app/)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ian-otieno&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ian-otieno)
 
 ---
 
