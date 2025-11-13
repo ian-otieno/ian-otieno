@@ -3,7 +3,8 @@ I'm a passionate **Full Stack Web Developer** with 3 years of hands-on experienc
 
 ## 🌍 Let's Connect  
 📫 **Email**: [ianowino3@gmail.com](mailto:ianowino3@gmail.com)  
-🔗 **Portfolio**: [View my work](https://ianoportflolio.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ianoportflolio.netlify.app/)
+
 
 ---
 
